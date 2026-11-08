@@ -1,8 +1,9 @@
 # ZeroPoint HID ⚡
 
 **ZeroPoint HID** is a modular, two-stage hardware payload injection and wireless presentation remote built for IT audits, lab testing, and workflow automation. 
-**It's in beta phase**
 Unlike standard all-in-one BadUSB tools, ZeroPoint HID splits the architecture into two microcontrollers: an **ESP32-C3 Super Mini** handling wireless control via Bluetooth Low Energy (BLE), and an **RP2040-Zero** acting purely as a hardware USB HID keyboard.
+
+**It's in beta phase**
 
 ---
 
