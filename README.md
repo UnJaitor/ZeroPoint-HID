@@ -59,7 +59,7 @@ The web interface runs directly in your mobile browser with zero installation re
 1. Host the `web/index.html` file on any server supporting **HTTPS** (such as GitHub Pages, a local Nginx server with SSL, or a local development server). *Note: HTTPS is strictly required by modern browsers to use the Web Bluetooth API.*
 2. Open the URL on your mobile phone browser (Chrome or Edge).
 3. Plug your completed hardware assembly (ESP32 + RP2040) into the target computer (Windows, Linux, or macOS).
-4. On your mobile phone, tap **"Vincular Dispositivo"**, select `ZeroPoint_HID` from the browser Bluetooth prompt, and you are ready to go!
+4. On your mobile phone, tap **"Connect Device"**, select `ZeroPoint_HID` from the browser Bluetooth prompt, and you are ready to go!
 
 ---
 
